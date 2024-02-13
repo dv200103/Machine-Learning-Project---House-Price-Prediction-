@@ -9,14 +9,16 @@
  To build a machine learning model which predict the house price accurately for the real estate agent.
  
 <h2>
-**Problem Statement:**
+<strong>Problem Statement:</strong>
 </h2>
 
  A real state agents want the help to predict the house price for regions in the USA. He gave you the dataset to work on and the task is to create a model which will help him to 
  estimate of what the house would sell for.
 
-**Description:**
-    
+<h2>
+<strong>Description:</strong>
+</h2>
+
  Dataset contains 7 columns and 5000 rows with CSV extension. The data contains the following columns :
 
     'Avg. Area Income': Avg. Income of householder of the city house is located in.
@@ -27,8 +29,10 @@
     'Price': Price that the house sold at.
     'Address': Address of the houses.
 
-  **Methods/steps:**
-    
+<h2>
+<strong>Methods/steps:</strong>
+</h2>
+
     1) Define the Problem(Problem Statement: Regression)
     
     2) Data Loading
@@ -66,7 +70,8 @@
     9) Evaluate the Model
     
     10) Iterate and HyperTunning
+<h2>
+<strong>Conclusion:</strong>
+</h2>
 
-**Conclusion:**
- 
  We will use linear model becuase it has the maximum accuracy(91.03%) and it is also good fit.

@@ -1,8 +1,9 @@
-<h1 style="font-size: 24px;"> 
-<p style="text-align:center; text-decoration:underline;">
-<strong>HOUSE PRICE PREDICTION</strong>
-</p>
+<h1 style="text-align:center;">
+    <span style="font-size:24px; text-decoration:underline;">
+        <strong>HOUSE PRICE PREDICTION</strong>
+    </span>
 </h1>
+
 
 <h2> 
 <strong>Aim:</strong> 

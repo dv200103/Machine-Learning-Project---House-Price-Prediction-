@@ -2,9 +2,9 @@
 <strong>HOUSE PRICE PREDICTION</strong> 
 </h1>
 
-<h6 style="font-size: 20px;"> 
+<h4 style="font-size: 20px;"> 
 <strong>Aim:</strong> 
-</h6>
+</h4>
 
  To build a machine learning model which predict the house price accurately for the real estate agent.
 

@@ -1,5 +1,7 @@
 <h1 style="font-size: 24px;"> 
-<strong>HOUSE PRICE PREDICTION</strong> 
+<p style="text-align:center; text-decoration:underline;">
+<strong>HOUSE PRICE PREDICTION</strong>
+</p>
 </h1>
 
 <h2> 

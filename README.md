@@ -1,6 +1,6 @@
                                                                       **HOUSE PRICE PREDICTION**
 
-** Aim: ** 
+**Aim:** 
  To build a machine learning model which predict the house price accurately for the real estate agent.
 
 ** Problem Statement: **

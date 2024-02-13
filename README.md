@@ -2,9 +2,9 @@
 <strong>HOUSE PRICE PREDICTION</strong> 
 </h1>
 
-<h3> 
+<h2> 
 <strong>Aim:</strong> 
-</h3>
+</h2>
 
  To build a machine learning model which predict the house price accurately for the real estate agent.
 

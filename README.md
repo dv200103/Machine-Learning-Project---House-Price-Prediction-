@@ -2,7 +2,7 @@
 <strong>HOUSE PRICE PREDICTION</strong> 
 </h1>
 
-<h3 style="font-size: 20px;"> 
+<h3> 
 <strong>Aim:</strong> 
 </h3>
 

@@ -1,4 +1,4 @@
-                                                                       **House Price Prediction Project**
+                                                                      *HOUSE PRICE PREDICTION*
 
 ** Aim: ** 
  To build a machine learning model which predict the house price accurately for the real estate agent.

@@ -1,7 +1,10 @@
 <h1 style="font-size: 24px;"> 
 <strong>HOUSE PRICE PREDICTION</strong> 
 </h1>
-**Aim:** 
+
+<p style="font-size: 15px;"> 
+<strong>Aim:</strong>
+</p>
 
  To build a machine learning model which predict the house price accurately for the real estate agent.
 

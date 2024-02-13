@@ -2,16 +2,16 @@
   <u><strong>HOUSE PRICE PREDICTION</strong></u>
 </h1>
 
-
-
 <h2> 
 <strong>Aim:</strong> 
 </h2>
 
  To build a machine learning model which predict the house price accurately for the real estate agent.
-
-**Problem Statement:**
  
+<h2>
+**Problem Statement:**
+</h2>
+
  A real state agents want the help to predict the house price for regions in the USA. He gave you the dataset to work on and the task is to create a model which will help him to 
  estimate of what the house would sell for.
 

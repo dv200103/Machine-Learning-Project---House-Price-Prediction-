@@ -49,11 +49,9 @@
 
         e) Bivariate Analysis(Correlation Analysis)
 
-        f) Variable transformations
+        f) Missing value treatment
 
-        g) Missing value treatment
-
-        h) Outlier treatment
+        g) Outlier treatment
         
     4) Data Preprocessing
     
@@ -70,6 +68,9 @@
     9) Evaluate the Model
     
     10) Iterate and HyperTunning
+
+    11) Model Deployment
+    
 <h2>
 <strong>Conclusion:</strong>
 </h2>
